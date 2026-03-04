@@ -18,7 +18,7 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://maps.app.goo.gl/S5hgudtQzd8towUM7?g_st=ic"
+                  href="https://maps.app.goo.gl/tegSVaGASN48YUH59"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-brand-accent flex justify-between items-center border-b border-gray-800 pb-2 transition-colors"

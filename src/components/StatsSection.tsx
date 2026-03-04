@@ -23,21 +23,13 @@ const StatsSection = () => {
               reach the top level of cricket.
             </p>
 
-            <div className="grid grid-cols-2 gap-8">
+            <div className="max-w-xs">
               <div className="bg-white/5 border border-white/10 p-6 rounded-3xl">
                 <div className="text-4xl font-black text-brand-accent mb-2">
                   95%
                 </div>
                 <div className="text-xs uppercase font-bold text-gray-500 tracking-wider">
                   Skill Growth
-                </div>
-              </div>
-              <div className="bg-white/5 border border-white/10 p-6 rounded-3xl">
-                <div className="text-4xl font-black text-brand-green mb-2">
-                  12+
-                </div>
-                <div className="text-xs uppercase font-bold text-gray-500 tracking-wider">
-                  Expert Coaches
                 </div>
               </div>
             </div>

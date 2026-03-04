@@ -4,14 +4,14 @@ const facilities = [
   {
     title: "NET PRACTICE",
     desc: "Daily sessions on both turf and cement wickets under expert eyes.",
-    img: "https://images.pexels.com/photos/19714741/pexels-photo-19714741.jpeg?w=800&h=1200&fit=crop",
+    img: "/images/net-practice.jpg",
     icon: "fa-solid fa-tower-broadcast",
     align: "left" as const,
   },
   {
     title: "Bowling Machines",
     desc: "Master pace and spin with our 90mph+ precision bowling machines.",
-    img: "https://images.pexels.com/photos/19714741/pexels-photo-19714741.jpeg?w=800&h=1200&fit=crop",
+    img: "/images/bowling-machine.jpg",
     icon: null,
     badge: "HI-TECH",
     align: "center" as const,
@@ -19,7 +19,7 @@ const facilities = [
   {
     title: "SUNDAY MATCHES",
     desc: "Test your skills in real-game scenarios every weekend against premier local clubs.",
-    img: "https://images.pexels.com/photos/31131695/pexels-photo-31131695.jpeg?w=800&h=1200&fit=crop",
+    img: "/images/sunday-match.jpg",
     icon: null,
     align: "left" as const,
     hasButton: true,

@@ -52,7 +52,7 @@ const ContactSection = () => {
 
         <div ref={mapRef} className="mt-12 text-center">
           <a
-            href="https://maps.app.goo.gl/S5hgudtQzd8towUM7?g_st=ic"
+            href="https://maps.app.goo.gl/tegSVaGASN48YUH59"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 bg-brand-dark text-white px-10 py-5 rounded-full font-bold hover:bg-brand-dark-green transition shadow-xl"

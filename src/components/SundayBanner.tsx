@@ -26,15 +26,6 @@ const SundayBanner = () => {
             </a>
           </div>
 
-          <div className="relative z-10 w-full md:w-1/3 flex flex-col gap-4">
-            <div className="bg-white/20 backdrop-blur-md p-6 rounded-2xl border border-white/30 text-black">
-              <div className="text-xs font-bold uppercase tracking-tighter mb-1">
-                Upcoming Fixture
-              </div>
-              <div className="text-xl font-bold">VS Warriors SC</div>
-              <div className="text-sm font-medium">Stadium Pitch 1</div>
-            </div>
-          </div>
 
           <i className="fa-solid fa-trophy absolute -right-10 -bottom-10 text-[20rem] text-black/5 rotate-12"></i>
         </div>
